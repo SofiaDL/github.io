@@ -28,8 +28,8 @@ background-color: white;
     transition-property: transform;
     transition-duration: 1s;
 }
-.header:hover{
-   transform: scale(1.1);
+/* .header:hover{ */
+/*    transform: scale(1.1); */
 }
 .none{
    display: none !important;
