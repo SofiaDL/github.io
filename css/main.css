@@ -58,7 +58,7 @@ background-color: white;
 position: absolute;
 width: 48px;
 height: 48px;
-/* transform:translate(-50%,0);
+transform:translate(-50%,0);
 /* transform для повороту і масштабування елементів
 З translate можно вырівнювати елементи по вертикалі. 
 Але Переважно це робиться абсолютним позиціонуванням
